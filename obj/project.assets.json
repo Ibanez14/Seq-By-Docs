@@ -1297,11 +1297,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sovsh\\Desktop\\Workshop\\testing seq By docs\\testing seriloq By docs.csproj",
-      "projectName": "testing seriloq By docs",
-      "projectPath": "C:\\Users\\sovsh\\Desktop\\Workshop\\testing seq By docs\\testing seriloq By docs.csproj",
+      "projectUniqueName": "C:\\Users\\sovsh\\Desktop\\Workshop\\Seq\\SeqTesting.csproj",
+      "projectName": "SeqTesting",
+      "projectPath": "C:\\Users\\sovsh\\Desktop\\Workshop\\Seq\\SeqTesting.csproj",
       "packagesPath": "C:\\Users\\sovsh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sovsh\\Desktop\\Workshop\\testing seq By docs\\obj\\",
+      "outputPath": "C:\\Users\\sovsh\\Desktop\\Workshop\\Seq\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

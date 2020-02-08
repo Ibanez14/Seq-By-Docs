@@ -76,6 +76,7 @@ namespace testing_seriloq_By_docs.Controllers
             var user = new UserRegistered();
             user.Name = "Steve";
             user.Lastname = "Corney";
+            user.Email = "heart@of.gold";
 
             _logger.LogInformation(event1, "UserRegistered: {@User}", user);
             _logger.LogInformation(event1, "UserRegistered: {@User}", new { Name = "Steve", Age = 14});
@@ -85,6 +86,14 @@ namespace testing_seriloq_By_docs.Controllers
             #endregion
 
 
+            #region User in scope will be in log body
+
+            using (var scope = _logger.BeginScope("UserRegistration: {@User}", user))
+            {
+                _logger.LogInformation("New user registered {Email}", user.Email);
+            }
+
+            #endregion
 
             return Redirect("http://localhost:5341");
         }
@@ -92,14 +101,12 @@ namespace testing_seriloq_By_docs.Controllers
 
         public struct UserRegistered
         {
+            public string Email { get; set; }
             public string Name { get; set; }
             public string Lastname { get; set; }
             public int Age { get; set; }
 
-            public override string ToString()
-            {
-                return "Registered User";
-            }
+           
         }
     }
 }
