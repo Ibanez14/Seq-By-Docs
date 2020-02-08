@@ -1,0 +1,40 @@
+C:\Users\sovsh\Desktop\Workshop\testing seriloq By docs\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sovsh\Desktop\Workshop\testing seriloq By docs\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sovsh\Desktop\Workshop\testing seriloq By docs\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sovsh\Desktop\Workshop\testing seriloq By docs\bin\Debug\netcoreapp3.1\testing seriloq By docs.exe
+C:\Users\sovsh\Desktop\Workshop\testing seriloq By docs\obj\Debug\netcoreapp3.1\testing seriloq By docs.csprojAssemblyReference.cache
+C:\Users\sovsh\Desktop\Workshop\testing seriloq By docs\obj\Debug\netcoreapp3.1\staticwebassets\testing seriloq By docs.StaticWebAssets.Manifest.cache
+C:\Users\sovsh\Desktop\Workshop\testing seriloq By docs\obj\Debug\netcoreapp3.1\staticwebassets\testing seriloq By docs.StaticWebAssets.xml
+C:\Users\sovsh\Desktop\Workshop\testing seriloq By docs\obj\Debug\netcoreapp3.1\testing seriloq By docs.AssemblyInfoInputs.cache
+C:\Users\sovsh\Desktop\Workshop\testing seriloq By docs\obj\Debug\netcoreapp3.1\testing seriloq By docs.AssemblyInfo.cs
+C:\Users\sovsh\Desktop\Workshop\testing seriloq By docs\obj\Debug\netcoreapp3.1\testing seriloq By docs.RazorTargetAssemblyInfo.cache
+C:\Users\sovsh\Desktop\Workshop\testing seriloq By docs\bin\Debug\netcoreapp3.1\testing seriloq By docs.deps.json
+C:\Users\sovsh\Desktop\Workshop\testing seriloq By docs\bin\Debug\netcoreapp3.1\testing seriloq By docs.runtimeconfig.json
+C:\Users\sovsh\Desktop\Workshop\testing seriloq By docs\bin\Debug\netcoreapp3.1\testing seriloq By docs.runtimeconfig.dev.json
+C:\Users\sovsh\Desktop\Workshop\testing seriloq By docs\bin\Debug\netcoreapp3.1\testing seriloq By docs.dll
+C:\Users\sovsh\Desktop\Workshop\testing seriloq By docs\bin\Debug\netcoreapp3.1\testing seriloq By docs.pdb
+C:\Users\sovsh\Desktop\Workshop\testing seriloq By docs\bin\Debug\netcoreapp3.1\Seq.Extensions.Logging.dll
+C:\Users\sovsh\Desktop\Workshop\testing seriloq By docs\obj\Debug\netcoreapp3.1\testing seriloq By docs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sovsh\Desktop\Workshop\testing seriloq By docs\obj\Debug\netcoreapp3.1\testing seriloq By docs.csproj.CopyComplete
+C:\Users\sovsh\Desktop\Workshop\testing seriloq By docs\obj\Debug\netcoreapp3.1\testing seriloq By docs.dll
+C:\Users\sovsh\Desktop\Workshop\testing seriloq By docs\obj\Debug\netcoreapp3.1\testing seriloq By docs.pdb
+C:\Users\sovsh\Desktop\Workshop\testing seq By docs\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sovsh\Desktop\Workshop\testing seq By docs\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sovsh\Desktop\Workshop\testing seq By docs\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sovsh\Desktop\Workshop\testing seq By docs\bin\Debug\netcoreapp3.1\testing seriloq By docs.exe
+C:\Users\sovsh\Desktop\Workshop\testing seq By docs\bin\Debug\netcoreapp3.1\testing seriloq By docs.deps.json
+C:\Users\sovsh\Desktop\Workshop\testing seq By docs\bin\Debug\netcoreapp3.1\testing seriloq By docs.runtimeconfig.json
+C:\Users\sovsh\Desktop\Workshop\testing seq By docs\bin\Debug\netcoreapp3.1\testing seriloq By docs.runtimeconfig.dev.json
+C:\Users\sovsh\Desktop\Workshop\testing seq By docs\bin\Debug\netcoreapp3.1\testing seriloq By docs.dll
+C:\Users\sovsh\Desktop\Workshop\testing seq By docs\bin\Debug\netcoreapp3.1\testing seriloq By docs.pdb
+C:\Users\sovsh\Desktop\Workshop\testing seq By docs\bin\Debug\netcoreapp3.1\Seq.Extensions.Logging.dll
+C:\Users\sovsh\Desktop\Workshop\testing seq By docs\obj\Debug\netcoreapp3.1\testing seriloq By docs.csprojAssemblyReference.cache
+C:\Users\sovsh\Desktop\Workshop\testing seq By docs\obj\Debug\netcoreapp3.1\staticwebassets\testing seriloq By docs.StaticWebAssets.Manifest.cache
+C:\Users\sovsh\Desktop\Workshop\testing seq By docs\obj\Debug\netcoreapp3.1\staticwebassets\testing seriloq By docs.StaticWebAssets.xml
+C:\Users\sovsh\Desktop\Workshop\testing seq By docs\obj\Debug\netcoreapp3.1\testing seriloq By docs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sovsh\Desktop\Workshop\testing seq By docs\obj\Debug\netcoreapp3.1\testing seriloq By docs.AssemblyInfoInputs.cache
+C:\Users\sovsh\Desktop\Workshop\testing seq By docs\obj\Debug\netcoreapp3.1\testing seriloq By docs.AssemblyInfo.cs
+C:\Users\sovsh\Desktop\Workshop\testing seq By docs\obj\Debug\netcoreapp3.1\testing seriloq By docs.RazorTargetAssemblyInfo.cache
+C:\Users\sovsh\Desktop\Workshop\testing seq By docs\obj\Debug\netcoreapp3.1\testing seriloq By docs.csproj.CopyComplete
+C:\Users\sovsh\Desktop\Workshop\testing seq By docs\obj\Debug\netcoreapp3.1\testing seriloq By docs.dll
+C:\Users\sovsh\Desktop\Workshop\testing seq By docs\obj\Debug\netcoreapp3.1\testing seriloq By docs.pdb
